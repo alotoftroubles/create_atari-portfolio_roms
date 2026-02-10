@@ -39,6 +39,8 @@ chmod u+x 123-pofo-roms.sh
 
 sudo ./123-pofo-roms.sh
 
+The powershell script convert-roms.ps1 is the windows equivalent (ImDisk required: https://sourceforge.net/projects/imdisk-toolkit/)
+
 - Copy these .rom files to the ~/RetroPie/roms/pofo directory or your specific mame rom directory
 
 - Now you can run the games with mame
